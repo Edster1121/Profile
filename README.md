@@ -1,3 +1,4 @@
+(OUTDATED)
 Welcome to the repository for my personal website! 🚀
 Here is a link to the website: https://edster1121.github.io/Profile/.
 
